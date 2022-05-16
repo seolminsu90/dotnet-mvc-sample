@@ -20,3 +20,9 @@ Add-Migration [Migration_File_name]
 Update-Database
 
 ```
+
+### 기타
+```bash
+#다중 관계 entity mapping(oneToMany.. manyToOne.. oneToOne 같은..
+https://docs.microsoft.com/ko-kr/ef/core/modeling/relationships?tabs=fluent-api%2Cfluent-api-simple-key%2Csimple-key
+```
